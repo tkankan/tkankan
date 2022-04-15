@@ -15,4 +15,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<a href="https://profile.intra.42.fr/users/tkankan"><img width="48%" src="https://badge42.vercel.app/api/v2/cl1lkdqj3000609l1klzziqu1/stats?cursusId=21&coalitionId=undefined" alt="tkankan's 42 stats"/></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl20ebg55005409laufnaj2cl/stats?cursusId=21&coalitionId=undefined" alt="tkankan's 42 stats" /></a>
