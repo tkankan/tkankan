@@ -19,4 +19,4 @@
 <p align="center">
     <img width="300" src="https://readme-jokes.vercel.app/api" alt="Random joke"></p>
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl20ebg55005409laufnaj2cl/stats?cursusId=21&coalitionId=undefined" alt="tkankan's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/tkankan?1337Badge=off&UM6P=off" alt="tkankan's 42 stats" /></a>
