@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1:19A71E,100:FF8F00&height=200&text=Hi%20there,%20I%27m%20Taha%20%F0%9F%99%8B%20%E2%AC%87&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
-<h3 align="center">I am student at Ecole 42 Kocaeli.</h3>
+<h3 align="center"></h3>
 
-- 🌱 I’m currently learning **C - Java**
+- 🌱 I’m currently learning **C - Java - GoLang**
 
 - 📫 How to reach me **tkankan@icloud.com**
 
@@ -18,5 +18,3 @@
 
 <p align="center">
     <img width="300" src="https://readme-jokes.vercel.app/api" alt="Random joke"></p>
-
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/tkankan?1337Badge=off&UM6P=off" alt="tkankan's 42 stats" /></a>
